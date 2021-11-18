@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Упражнения</string>
+    <string name="details_button">Подробности</string>
+    <string name="workout_title">Название</string>
+    <string name="workout_description">Описание</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Заново</string>
+</resources>
